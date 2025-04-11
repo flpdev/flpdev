@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Felipe 👋
+
+I'm a Laravel developer from Brazil 🇧🇷, passionate about building scalable systems and automating real-world workflows.
+
+## 🚀 Projects
+
+
+## 📫 Let's connect
+- [LinkedIn](https://linkedin.com/in/flp-developer)
+- Email: fm.felipe@gmail.com
+
 
 <!--
 **flpdev/flpdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
